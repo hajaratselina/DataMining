@@ -20,6 +20,8 @@ check from slides and do all visualizations based on presentations (did he say t
 
 he says CLUSTER BEFORE PCA. fix that (check slides PCA part)
 
+focus on Rating during data prep?
+
 --
 
 Feier D. (2022). Predicting Board Game Ratings. Proceedings of Student Research & Creative Inquiry Day. Available: https://publish.tntech.edu/index.php/PSRCI/article/view/1002
@@ -27,5 +29,6 @@ Samarasinghe D., Barlow M., Lakshika E., et al. (2021). A Data-Driven Review of 
 Franklin S. J. (2019). Board Game Rating Prediction with Linear Regression & Random Forest Regression in Python. Analytics Vidhya Medium. https://medium.com/analytics-vidhya/board-game-rating-prediction-using-linear-regression-random-forest-regression-in-python-e9a63480090f
 
 “Board Game Rating Prediction” tutorial (DataStud, 2021). Available at: https://datastud.dev/posts/sliced-2021-w1/
+
 
 https://medium.com/analytics-vidhya/board-game-rating-prediction-using-linear-regression-random-forest-regression-in-python-e9a63480090f

@@ -1,0 +1,31 @@
+keep NumOwned instead of NumVotes
+
+NumWeightVotes and GameWeight? Correlation? What do we do with these?
+
+publication year keep a threshold or change?
+
+scatterplots for each numerical value to find outliers and anomalies
+
+use MfgAgeRec to predict ComAgeRec with a model-based imputation (and use other variables to do this too) and do this for LanguageEase as well
+
+MaxPlayers and MinPlayers removing the 0s: check
+
+K-Means for different K (2–10): visualize it
+
+for clustering, check if we put a lower limit per cluster would increase the efficiency and accuracy of clusters (one cluster has 303 games only)
+
+more visualizations for clustering (check presentations too - for each case how the visualization is)
+
+check from slides and do all visualizations based on presentations (did he say that don't do the clustering based on PCA?)
+
+he says CLUSTER BEFORE PCA. fix that (check slides PCA part)
+
+--
+
+Feier D. (2022). Predicting Board Game Ratings. Proceedings of Student Research & Creative Inquiry Day. Available: https://publish.tntech.edu/index.php/PSRCI/article/view/1002
+Samarasinghe D., Barlow M., Lakshika E., et al. (2021). A Data-Driven Review of Board Game Design and Interactions of Their Mechanics. ResearchGate. https://www.researchgate.net/publication/353787592_A_Data_Driven_Review_of_Board_Game_Design_and_Interactions_of_Their_Mechanics
+Franklin S. J. (2019). Board Game Rating Prediction with Linear Regression & Random Forest Regression in Python. Analytics Vidhya Medium. https://medium.com/analytics-vidhya/board-game-rating-prediction-using-linear-regression-random-forest-regression-in-python-e9a63480090f
+
+“Board Game Rating Prediction” tutorial (DataStud, 2021). Available at: https://datastud.dev/posts/sliced-2021-w1/
+
+https://medium.com/analytics-vidhya/board-game-rating-prediction-using-linear-regression-random-forest-regression-in-python-e9a63480090f

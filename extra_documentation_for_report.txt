@@ -1,0 +1,8 @@
+XGBoost classifier:
+    https://www.geeksforgeeks.org/machine-learning/xgbclassifier/
+
+XGBoost Regressor
+    https://www.geeksforgeeks.org/machine-learning/xgboost-for-regression/
+
+SHAP:
+    https://www.geeksforgeeks.org/machine-learning/shap-a-comprehensive-guide-to-shapley-additive-explanations/
